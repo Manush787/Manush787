@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/183411860?v=4"  />
-</div>
-
-###
-
 <h1 align="center">Hey There , I'm Manush Suthar 👋</h1>
 
 ###
