@@ -8,7 +8,7 @@
 
 ###
 
-<h6 align="left">👩‍💻  I'm an enthusiastic software engineer who loves working on exciting projects.</h6>
+<h4 align="left">👩‍💻  I'm an enthusiastic software engineer who loves working on exciting projects.</h4>
 
 ###
 
