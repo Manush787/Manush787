@@ -12,15 +12,19 @@
 
 ###
 
-<h3 align="left">🔭 What I Do:</h3>
+<h2 align="left">🔭 What I Do:</h2>
 
 ###
 
-<h6 align="left">📚 I'm currently learning Web Designing & improvise my skills.<br>⚡ In my free time I create content upon new ideas.<br>🎥I do live streams as i like to interact with new people.</h6>
+<h3 align="left">📚 I'm currently learning Web Designing & improvise my skills.<br>⚡ In my free time I create content upon new ideas.<br>🎥I do live streams as i like to interact with new people.</h3>
 
 ###
 
-<p align="left">🌐Conect With Me:<br><br>Feel free to conect with me on social media. I'm always open for new collabrations, new opportunities, tech talks, content creation.</p>
+<h2 align="left">🌐Conect With Me:</h2>
+
+###
+
+<h4 align="left">Feel free to conect with me on social media. I'm always open for new collabrations, new opportunities, tech talks, content creation.</h4>
 
 ###
 
